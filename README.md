@@ -1,6 +1,6 @@
 # Liberation-War-Archive
 
-This project is created for the NSDA Web Design and Development Level-3 Assessment (Demonstration Job-2). The Liberation War Archive is a web-based archive dedicated to preserving and showcasing historical information, documents, and multimedia related to the Bangladesh Liberation War of 1971.
+The Liberation War Archive is a web-based archive dedicated to preserving and showcasing historical information, documents, and multimedia related to the Bangladesh Liberation War of 1971.
 
 Developed by Tarak Rahman.
 
