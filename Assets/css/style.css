@@ -85,3 +85,8 @@ nav ul .text-light{
 .gallery-item img:hover {
     transform: scale(1.1);
 }
+.featured_img img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
